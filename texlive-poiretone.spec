@@ -1,6 +1,6 @@
 Name:		texlive-poiretone
 Version:	64856
-Release:	1
+Release:	2
 Summary:	PoiretOne family of fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/poiretone
