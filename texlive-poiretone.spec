@@ -3,7 +3,7 @@ Version:	64856
 Release:	2
 Summary:	PoiretOne family of fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/poiretone
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/poiretone
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/poiretone.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/poiretone.doc.r%{version}.tar.xz
